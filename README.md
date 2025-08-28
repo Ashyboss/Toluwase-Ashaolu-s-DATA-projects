@@ -9,4 +9,4 @@ This Project showcase two projects analysing Data from two different clinics to 
 This project was for a Data manipulation and cleaning project before transfer to build insight. This Live Dashboard showing overral overview of the CLinic from the Waitlist, to the top 5 specialist with the most operations and the Time band vas Age profile. which is also life field
 
 ![IMAGE](image.png)
-*[Live Dashobard](https://github.com/Ashyboss/Toluwase-Ashaolu-s-DATA-projects/blob/main/image.png)*
+*[Live Dashboard](https://github.com/Ashyboss/Toluwase-Ashaolu-s-DATA-projects/blob/main/image.png)*
